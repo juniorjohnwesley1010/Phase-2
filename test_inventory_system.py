@@ -1,4 +1,4 @@
-"""Automated correctness and edge-case tests for the inventory PoC."""
+"""tests for the inventory PoC."""
 
 import unittest
 from decimal import Decimal
